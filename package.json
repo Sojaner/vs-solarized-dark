@@ -2,7 +2,7 @@
   "name": "solarized-dark-vs-tokens",
   "displayName": "Solarized Dark VS Tokens",
   "description": "Solarized Dark workbench colors with JetBrains Visual Studio Dark syntax and semantic highlighting.",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "publisher": "sojaner",
   "author": {
     "name": "Roy Gh."
